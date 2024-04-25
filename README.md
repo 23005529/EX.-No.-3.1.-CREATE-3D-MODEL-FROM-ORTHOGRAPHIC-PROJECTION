@@ -1,4 +1,8 @@
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
+NAME : ALIYA SHEEMA
+
+REGISTER NUMBER : 212223230011
+
 ## DATE:
 
 ## AIM:
@@ -7,7 +11,7 @@ To create a 3D model from given orthographic projection.
 ## REQUIREMENTS:
 1. Autodesk fusion 360
 2. Windows 10
-3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
+4. 16 GB of RAM (integrated graphics recommend 1 GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
@@ -41,6 +45,8 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+
+![image](https://github.com/23005529/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/139842207/85affaa3-0190-4609-b4de-ff92627eb8ce)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
